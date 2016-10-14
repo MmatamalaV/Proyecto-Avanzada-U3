@@ -1,0 +1,4 @@
+Rut:24244343
+Numero Guia:23232
+fecha:2016-05-14
+proveedor:3efdf
